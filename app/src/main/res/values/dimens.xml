@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="comic_title_text_size">18sp</dimen>
+    <dimen name="comic_title_margin_start">16dp</dimen>
+    <dimen name="comic_title_margin_end">16dp</dimen>
+    <dimen name="comic_title_margin_top">24dp</dimen>
+    <dimen name="comic_image_margin_top">16dp</dimen>
+    <dimen name="comic_image_margin_start">16dp</dimen>
+    <dimen name="comic_image_margin_end">16dp</dimen>
+    <dimen name="comic_description_text_size">14sp</dimen>
+    <dimen name="comic_description_padding">16dp</dimen>
+</resources>
